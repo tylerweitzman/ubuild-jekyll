@@ -15,7 +15,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Rate <br><strong> our cops</strong>
-  content: A movement for the people's wish to end racial injustice. We ask cops to commit to being held publicly accountable to regain trust.
+  content: A movement for the people's wish to end racial injustice. We ask cops to commit to being held publicly accountable and regain trust.
   cta:
     enabled: true
     url: https://tripetto.app/collect/HCCOWB2FFD

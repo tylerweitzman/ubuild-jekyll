@@ -5,28 +5,18 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  logo: "/uploads/2018/06/21/logo.png"
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    button_text: Sign Up
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Rate <br><strong> our cops</strong>
+  content: A movement for the people's wish to end racial injustice. We offer cops to be held publicly accountable to regain our trust.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: 'Sign up for the app '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
@@ -34,47 +24,28 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: <strong>This Needs Support<span class="light">&nbsp;</span></strong><span
+    class="light"></span>
+  content: The last site to try this was <strong>shut down by the police</strong>.<br><br> Sign up and share the site with others.<br>Contact us to volunteer.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2018/06/21/support-crowd.jpeg"
+    alt_text: Picture of crowd
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: If we all push for this, it will be a <strong>new standard.</strong><span class="light"></span>
+  content: .
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2018/06/21/justice.jpg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+  headline: Our Team
+  content: "Rate Our Cops was founded by a group of computer science students at Stanford University, initiated and led by Tyler Weitzman. To help us and to volunteer please contact <a href='mailto:team@rateourcops.com'>team@rateourcops.com</a>."
+
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Created by <a href='https://instagram.com/tylerweitzman/'>Tyler Weitzman</a> ❤︎
 
 ---
 foo bar

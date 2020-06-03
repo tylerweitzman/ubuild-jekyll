@@ -1,12 +1,10 @@
-title: uBuild Design Blocks
-author: Forestry.io
-email: support@forestry.io
+title: Rate Our Cops
+author: rateourcops.com
+email: 
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
-baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
+    A movement for the people's wish to end racial injustice. We offer cops to be held publicly accountable to regain our trust.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://rateourcops.com/" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:

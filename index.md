@@ -6,8 +6,6 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
-  - link: "https://instagram.com/rateourcops"
-    link_text: Instagram
   logo: "/uploads/2018/06/21/logo.png"
   cta:
     url: https://tripetto.app/collect/HCCOWB2FFD
